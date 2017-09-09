@@ -1,0 +1,16 @@
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\SpotifyVoiceController.exe.config
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\SpotifyVoiceController.exe
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\SpotifyVoiceController.pdb
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\SpotifyAPI.dll
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\Newtonsoft.Json.dll
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyVoiceController.csprojResolveAssemblyReference.cache
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyVoiceController_MarkupCompile.cache
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyVoiceController_MarkupCompile.lref
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyVoiceController.g.resources
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyVoiceController.Properties.Resources.resources
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyVoiceController.csproj.GenerateResource.Cache
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyVoiceController.exe
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyVoiceController.pdb
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\View\MainWindow.g.cs
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\View\App.g.cs
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\View\MainWindow.baml

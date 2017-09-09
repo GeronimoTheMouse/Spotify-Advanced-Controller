@@ -1,0 +1,17 @@
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Release\Spotify Advanced Controller.exe.config
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Release\Spotify Advanced Controller.exe
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Release\Spotify Advanced Controller.pdb
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Release\SpotifyAPI.dll
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Release\Newtonsoft.Json.dll
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\Spotify Advanced Controller.csprojResolveAssemblyReference.cache
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\View\MainWindow.g.cs
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\View\App.g.cs
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\Spotify Advanced Controller_MarkupCompile.cache
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\Spotify Advanced Controller_MarkupCompile.lref
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\View\MainWindow.baml
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\Spotify Advanced Controller.g.resources
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\SpotifyAdvancedController.Properties.Resources.resources
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\Spotify Advanced Controller.csproj.GenerateResource.Cache
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\Spotify Advanced Controller.exe
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Release\Spotify Advanced Controller.pdb

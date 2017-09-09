@@ -1,0 +1,38 @@
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\Newtonsoft.Json.dll
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\View\MainWindow.g.cs
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\View\App.g.cs
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\View\MainWindow.baml
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.csproj.GenerateResource.Cache
+c:\users\revolution\documents\visual studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\SpotifyAdvancedController.Properties.Resources.resources
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\Spotify Advanced Controller.exe.config
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\Spotify Advanced Controller.exe
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\Spotify Advanced Controller.pdb
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller_MarkupCompile.cache
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller_MarkupCompile.lref
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.g.resources
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.exe
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.pdb
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\bin\Debug\Spotify Advanced Controller.exe.config
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\bin\Debug\Spotify Advanced Controller.exe
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\bin\Debug\Spotify Advanced Controller.pdb
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\bin\Debug\SpotifyAPI.dll
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.csprojResolveAssemblyReference.cache
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\View\MainWindow.g.cs
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\View\App.g.cs
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller_MarkupCompile.cache
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller_MarkupCompile.lref
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\View\MainWindow.baml
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.g.resources
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\SpotifyAdvancedController.Properties.Resources.resources
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.csproj.GenerateResource.Cache
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.exe
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.pdb
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceControllerBackup\SpotifyVoiceController\bin\Debug\SpotifyAPI.xml
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\SpotifyAPI.dll
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\bin\Debug\SpotifyAPI.xml
+C:\Users\Revolution\Documents\Visual Studio 2017\Projects\SpotifyVoiceController\SpotifyVoiceController\obj\Debug\Spotify Advanced Controller.csprojResolveAssemblyReference.cache
